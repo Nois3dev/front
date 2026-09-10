@@ -1,0 +1,7 @@
+*.js
+*.txt
+*.ico
+*.json
+*.DS_Store
+icon.svg
+/js

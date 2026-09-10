@@ -1,0 +1,55 @@
+.principal {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    padding: 15px 15px;
+    font-size: 1.5rem;
+}
+
+.seccion {
+    display: flex;
+    justify-content: center;
+    font-family: Arial;
+}
+
+
+.articulo1 {
+    display: flex;
+    width: 33%;
+    flex-direction: column;
+    background-color: rgb(151, 211, 205);
+}
+.articulo2 {
+    display: flex;
+    width: 34%;
+    flex-direction: column;
+    background-color: rgb(188, 244, 187);
+}
+.articulo3 {
+    display: flex;
+    width: 33%;
+    flex-direction: column;
+    background-color: rgb(195, 210, 232);
+}
+img {
+    display: block;
+    margin: 10px;
+    height: 200px;
+
+}
+p {
+    margin: 10px;
+    font-size: .8rem;
+    text-align: justify;
+
+}
+h3 {
+    text-align: center;
+}

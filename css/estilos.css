@@ -1,0 +1,12 @@
+.ejercicio1 header {
+    border: 1px solid black;
+    width: 65%;
+    font-family: Verdana;
+    background-color: black;
+    color: white;
+}
+
+.ejercicio1 nav {
+    background-color: grey;
+    
+}
