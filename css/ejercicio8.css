@@ -1,4 +1,37 @@
-* {
-    border: 1px solid black;
+.agencia {
+  font-family: Verdana;
 }
 
+.agencia header {
+  display: flex;
+  background-color: rgb(184, 205, 218);
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+
+.agencia img {
+  height: 100%;
+  mask-composite: subtract;
+  background-color: aqua;
+}
+.barra ul {
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  background-color: rgb(92, 143, 17);
+}
+.barra span {
+  color: white;
+}
+.barra a {
+  color: white;
+  padding: 5px 5px;
+  font-size: 12px;
+  display: block;
+}
+.ilustracion img {
+  max-height: 150px;
+  width: 100%;
+}
